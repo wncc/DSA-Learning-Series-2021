@@ -1,3 +1,19 @@
+- [Graphs - what are they?](#graphs---what-are-they)
+- [Graph Terminology](#graph-terminology)
+	- [Directed/Undirected graph](#directedundirected-graph)
+	- [Weighted/Unweighted graph](#weightedunweighted-graph)
+- [Representation of Graphs:](#representation-of-graphs)
+	- [Adjacency List](#adjacency-list)
+	- [Adjacency Matrix:](#adjacency-matrix)
+	- [Edge List :](#edge-list-)
+- [Graph Traversal:](#graph-traversal)
+	- [Depth First Search(DFS)](#depth-first-searchdfs)
+	- [Breadth First Search (BFS)](#breadth-first-search-bfs)
+- [Shortest Paths:](#shortest-paths)
+	- [Bellman-Ford](#bellman-ford)
+	- [Dijkstra's Algorithm](#dijkstras-algorithm)
+	- [Floyd-Warshall](#floyd-warshall)
+
 
 ## Graphs - what are they?
 

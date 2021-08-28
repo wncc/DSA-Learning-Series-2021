@@ -1,5 +1,16 @@
 # Arrays and Recursion
 
+- [Arrays and Recursion](#arrays-and-recursion)
+	- [Arrays:](#arrays)
+		- [Initializing arrays](#initializing-arrays)
+		- [Indexing](#indexing)
+		- [Arrays and Pointers](#arrays-and-pointers)
+		- [Function calls involving arrays](#function-calls-involving-arrays)
+		- [2-D arrays:](#2-d-arrays)
+		- [Vectors](#vectors)
+	- [Recursion:](#recursion)
+		- [Example - Searching](#example---searching)
+
 ## Arrays:
 
 An array can be thought of as a collection of variables at contiguous memory locations. This makes it easy to store and work with a number of items of the same time together.

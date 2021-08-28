@@ -1,5 +1,19 @@
 # Pointers, Structs
 
+- [Pointers, Structs](#pointers-structs)
+- [Pointers and Structures](#pointers-and-structures)
+	- [What is a pointer and the `&` operator](#what-is-a-pointer-and-the--operator)
+		- [Dereferencing Operator `*`](#dereferencing-operator-)
+		- [Passing by reference to functions](#passing-by-reference-to-functions)
+		- [Passing pointers to functions](#passing-pointers-to-functions)
+		- [Pointer to a pointer](#pointer-to-a-pointer)
+	- [Structures](#structures)
+		- [What is a Struct and accessing elements](#what-is-a-struct-and-accessing-elements)
+		- [Structs and Pointers](#structs-and-pointers)
+		- [Constructors](#constructors)
+		- [Access Specifiers](#access-specifiers)
+		- [Classes](#classes)
+
 # Pointers and Structures
 
 ## What is a pointer and the `&` operator

@@ -1,5 +1,21 @@
 # Stacks, Queues
 
+- [Stacks, Queues](#stacks-queues)
+- [Stacks:](#stacks)
+    - [Introduction:](#introduction)
+    - [Stack Operations:](#stack-operations)
+    - [Implementation of a Stack:](#implementation-of-a-stack)
+    - [Working of Stack Operations:](#working-of-stack-operations)
+    - [Time Complexity:](#time-complexity)
+    - [Applications of Stack:](#applications-of-stack)
+- [Queues:](#queues)
+    - [Introduction:](#introduction-1)
+    - [Queue Operations:](#queue-operations)
+    - [Implementation of a Queue:](#implementation-of-a-queue)
+    - [Working of Queue Operations:](#working-of-queue-operations)
+    - [Time Complexity:](#time-complexity-1)
+    - [Applications of Queue:](#applications-of-queue)
+
 # Stacks:
 
 ### Introduction:

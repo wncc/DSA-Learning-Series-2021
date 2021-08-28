@@ -1,5 +1,16 @@
 # Trees
 
+- [Trees](#trees)
+- [Introduction to Trees:](#introduction-to-trees)
+		- [Terms related to trees:](#terms-related-to-trees)
+		- [Properties of nodes :](#properties-of-nodes-)
+	- [Binary Trees:](#binary-trees)
+	- [Binary Search Trees:](#binary-search-trees)
+		- [Basic operations:](#basic-operations)
+		- [Insertion](#insertion)
+		- [Searching](#searching)
+		- [Traversal of Binary Trees:](#traversal-of-binary-trees)
+
 # Introduction to Trees:
 
 We read about some linear data structures like an array, linked list, stack and queue in which all the elements are arranged in a sequential manner. A tree is used to represent data arranged in an hierarchical manner.
@@ -48,7 +59,7 @@ The height of node x can be defined as the longest path from the node x to a lea
 
 A tree whose elements have at most 2 children is called a binary tree. Since each element in a binary tree can have only 2 children, we typically name them the left and right child.
 
-![Image](trees2.jpg)
+![Image](Images\trees2.jpg)
 
 A binary tree node should store the following information:
 
@@ -68,7 +79,7 @@ struct Node
 
 An example of the code for representing the following tree : 
 
-![Image](trees3.png)
+![Image](Images\trees3.png)
 
 ```cpp
 #include <iostream>
@@ -116,7 +127,7 @@ This rule will be applied recursively to all the left and right subtrees of the 
 
 Steps to create a BST using the following values in order : 10, 12, 5, 4, 20, 8, 7, 15, 13
 
-![Image](trees4.png)
+![Image](Images\trees4.png)
 
 A nice visualization of Binary Search Trees : [https://www.cs.usfca.edu/~galles/visualization/BST.html](https://www.cs.usfca.edu/~galles/visualization/BST.html) 
 
@@ -248,13 +259,13 @@ What will be the time complexity of search operation?
 
  In the worst case for a Binary Search tree which might look like this :
 
-![Image](trees5.png)
+![Image](Images\trees5.png)
 
 The search operation might have to go through all elements, resulting in a worst case time complexity of O(N). However in a balanced binary tree, the height of the left and right subtree of any node differs by not more than 1. Therefore, searching in a balanced binary tree is analogous to the Binary Search algorithm discussed earlier, where we compared the given value with the middle element of the subarray being considered. Similarly, searching for an element in a balanced binary search tree is O(logN).
 
 An example of balanced binary tree :
 
-![Image](trees6.png)
+![Image](Images\trees6.png)
 
 Self-balancing binary search trees are used for storing (key, value) pairs constituting a *map* from the C++ standard library.
 
@@ -278,7 +289,7 @@ All the three common traversal methods can be implemented using similar recursiv
 
 Inorder, Preorder and Postorder traversals of the given binary tree : 
 
-![Image](trees3.png)
+![Image](Images\trees3.png)
 
 ```cpp
 #include <iostream>

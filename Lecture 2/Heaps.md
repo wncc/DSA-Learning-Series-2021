@@ -1,5 +1,17 @@
 # Heaps
 
+  - [**What is a Heap?**](#what-is-a-heap)
+  - [**When are Heaps useful?**](#when-are-heaps-useful)
+    - [**Cons of Using Heaps**](#cons-of-using-heaps)
+  - [**Implementation of a Heap**](#implementation-of-a-heap)
+    - [**Insertion**](#insertion)
+    - [**Deletion (Removing the smallest element)**](#deletion-removing-the-smallest-element)
+    - [**Transforming Unordered Arrays Into Heaps**](#transforming-unordered-arrays-into-heaps)
+  - [**Building a Heap in Code**](#building-a-heap-in-code)
+  - [**heapq in Python**](#heapq-in-python)
+    - [**Min Heap Using heapq**](#min-heap-using-heapq)
+    - [**Max Heap Using heapq**](#max-heap-using-heapq)
+
 # Heaps:
 
 ## **What is a Heap?**

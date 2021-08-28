@@ -1,5 +1,20 @@
 # Linked Lists
 
+- [Linked Lists](#linked-lists)
+  - [Introduction](#introduction)
+    - [Prerequisites](#prerequisites)
+    - [Data structures and linked lists](#data-structures-and-linked-lists)
+    - [Implementation of a singly linked list](#implementation-of-a-singly-linked-list)
+  - [Operations on linked lists](#operations-on-linked-lists)
+    - [Inserting nodes at head](#inserting-nodes-at-head)
+    - [Searching for a node with a given value](#searching-for-a-node-with-a-given-value)
+    - [Deleting a given node](#deleting-a-given-node)
+  - [Where next?](#where-next)
+    - [More operations](#more-operations)
+    - [Doubly linked list](#doubly-linked-list)
+    - [Applications](#applications)
+  - [Practice](#practice)
+  
 ## Introduction
 
 ### Prerequisites

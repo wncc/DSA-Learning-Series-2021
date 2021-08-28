@@ -1,5 +1,19 @@
 # Complexity Analysis
 
+- [Complexity Analysis](#complexity-analysis)
+  - [Introduction](#introduction)
+  - [Techniques to find time complexity](#techniques-to-find-time-complexity)
+    - [More than one loop](#more-than-one-loop)
+    - [Best, average and worst case complexity](#best-average-and-worst-case-complexity)
+  - [Miscellaneous examples](#miscellaneous-examples)
+    - [Finding primes](#finding-primes)
+    - [Binary search](#binary-search)
+  - [Where next?](#where-next)
+    - [Other time complexities](#other-time-complexities)
+    - [Choosing an algorithm](#choosing-an-algorithm)
+    - [Additional problems](#additional-problems)
+    - [Further reading and references](#further-reading-and-references)
+
 ## Introduction
 
 Computers can, in theory, compute anything given enough resources. However, in reality, we are bound by limited resources like memory and processing power. It is, thus, of paramount importance that we be able to write programs that are efficient for the given task. How do you design your program efficiently? The first step is to be able to analyze how much of an impact it causes on your resource pool. Once you know that, you get a starting point from whereon to optimize.

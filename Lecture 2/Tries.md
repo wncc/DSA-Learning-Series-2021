@@ -1,13 +1,15 @@
 # Tries
 
-1. Intro to trie
-    1. What is trie?
-    2. Advantages and Disadvantages of a Trie
-    3. Implementation of a Trie
-    4. Application Problems 
-2. Operations on a Trie
-    1. Insertion
-    2. Search
+- [Tries](#tries)
+- [Intro to Trie](#intro-to-trie)
+    - [What is a trie ?](#what-is-a-trie-)
+    - [Advantages of a Trie :](#advantages-of-a-trie-)
+    - [Disadvantages of a Trie :](#disadvantages-of-a-trie-)
+    - [Implementing a Trie :](#implementing-a-trie-)
+    - [Application Problems of Trie :](#application-problems-of-trie-)
+- [Operations on a Trie :](#operations-on-a-trie-)
+    - [Insertion](#insertion)
+    - [Search](#search)
 
 # Intro to Trie
 
@@ -150,4 +152,4 @@ bool search(struct TrieNode *root, string key)
 }
 ```
 
--
+
