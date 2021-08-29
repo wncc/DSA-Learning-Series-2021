@@ -24,7 +24,7 @@ Stack is the first data structure that we're going to implement using a linked l
 
 You can think of a stack as a pile of plates where the plate on the top of the pile is the last to be added and the first to be removed. Here you can either add a plate on top or remove the topmost plate. 
 
-![Image](Images\stacks1.png)
+![Image](Images/stacks1.png)
 
 ### Stack Operations:
 
@@ -33,13 +33,13 @@ Some of the operations we can perform on a stack are:
 1. Push: Adds an element to the top of the stack.
 2. Pop: Removes the topmost element of the stack. It can also be designed to return the topmost element along with removing it depending on your need.
 
-![Image](Images\stacks2.png)
+![Image](Images/stacks2.png)
 
   3. IsEmpty: Returns true if the stack is empty, else false.
 
   4. Top or Peek: Returns the top element of the stack without removing it from the stack.
 
-![Image](Images\stacks3.png)
+![Image](Images/stacks3.png)
 
 ### Implementation of a Stack:
 
@@ -163,7 +163,7 @@ Queue is also a linear data structure which stores a collection of elements. It 
 
 You can think of queue data structure as a ticket queue outside a railway station, where the first person to enter the queue was also the first person which got the ticket and was removed from the queue.
 
-![Image](Images\stacks4.png)
+![Image](Images/stacks4.png)
 
 ### Queue Operations:
 
@@ -174,7 +174,7 @@ The different operations we can perform on a queue are:
 3. IsEmpty: Returns true if the queue is empty.
 4. Peek: Returns the value of the front of the queue without removing it.
 
-![Image](Images\stacks5.png)
+![Image](Images/stacks5.png)
 
 ### Implementation of a Queue:
 
