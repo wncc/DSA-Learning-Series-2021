@@ -1,13 +1,12 @@
-- [Hash Tables:](#hash-tables)
-    - [Introduction:](#introduction)
-    - [Hashing (Hash Function):](#hashing-hash-function)
-    - [Collision Resolution:](#collision-resolution)
-    - [Operations:](#operations)
-    - [Time Complexity:](#time-complexity)
-    - [Applications:](#applications)
-
 
 # Hash Tables:
+
+- [Introduction:](#introduction)
+- [Hashing (Hash Function):](#hashing-hash-function)
+- [Collision Resolution:](#collision-resolution)
+- [Operations:](#operations)
+- [Time Complexity:](#time-complexity)
+- [Applications:](#applications)
 
 ### Introduction:
 

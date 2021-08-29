@@ -2,7 +2,6 @@
 
 # Algorithms
 
-- [Lecture 3](#lecture-3)
 - [Algorithms](#algorithms)
 	- [Characteristics of an Algorithm](#characteristics-of-an-algorithm)
 	- [How to Write an Algorithm?](#how-to-write-an-algorithm)
