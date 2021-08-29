@@ -36,11 +36,11 @@ We will study the data structure called linked list in this article. A linked li
 1. Singly linked list: each node points only to the next element
 2. Doubly linked list: each node points to both, the next and the previous element.
 
-![Image](Images\lists1.png)
+![Image](Images/lists1.png)
 
 A graphical representation of singly linked list
 
-![Image](Images\lists2.png)
+![Image](Images/lists2.png)
 
 A graphical representation of doubly linked list
 
@@ -106,7 +106,7 @@ Also note how we transverse the linked list. We start from `n1` and move to the 
 
 In the above example, we had to do the creation linking of the nodes ourselves in `main`. We can automate this process by writing a class `sllist` whose member function will encapsulate the above logic. In order to do this we will have to maintain a pointer to the head of the linked list. **The head of a linked list is the most recently added element.** In the above code, the head would point to `n3`.
 
-![Image](Images\lists3.png)
+![Image](Images/lists3.png)
 
 The code below achieves the insertion of nodes at the head. Note that inserting a node at the head is $O(1)$ as all statements are constant time operations. The procedure is:
 
